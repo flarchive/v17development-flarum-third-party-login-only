@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of v17development/flarum-third-party-login-only.** Not for installation: use [Packagist](https://packagist.org/packages/v17development/flarum-third-party-login-only) or the [upstream repository](https://github.com/v17development/flarum-third-party-login-only).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/v17development-flarum-third-party-login-only/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/v17development-flarum-third-party-login-only/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-08-03 | `^1.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-third-party-login-only/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-08-08 | `^1.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-third-party-login-only/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/v17development-flarum-third-party-login-only.json](https://github.com/flarchive/archive-index/blob/main/packages/v17development-flarum-third-party-login-only.json)
 
